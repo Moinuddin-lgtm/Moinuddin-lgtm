@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Kazzzi and I'm a programmer, from your mind</p>
 
 ###
 
